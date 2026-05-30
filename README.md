@@ -1,4 +1,10 @@
 # Dashboard de Performance de Marketing & Growth
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Google BigQuery](https://img.shields.io/badge/Google_BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=sqlite&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
 
 ## Visão Geral do Projeto
 Este projeto consiste no desenvolvimento de um dashboard analítico de para monitoramento de KPIs estratégicos de Marketing. O objetivo principal foi centralizar dados de múltiplos canais de mídida (meta, google, bing e orgânico) juntando com dados de lead e opportunity (salesforce), garantindo uma única fonte da verdade para a tomada de decisão da área responsável.
